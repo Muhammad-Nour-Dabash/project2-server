@@ -23,6 +23,7 @@
     "@types/cors": "^2.8.18",
     "@types/express": "^5.0.1",
     "@types/express-session": "^1.18.1",
-    "@types/mongoose": "^5.11.96"
+    "@types/mongoose": "^5.11.96",
+    "typescript": "^5.8.3"
   }
 }
